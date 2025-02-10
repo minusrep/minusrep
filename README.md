@@ -1,7 +1,5 @@
 <div style="display: flex; align-items: center; gap: 20px;">
     <h1>Maxim. Unity C# Developer</h1>
-    <div>
-  </div>
   <div>
     <h2>Технологии и инструменты: <br> <br>
     <p align="left" style="display: flex; gap: 0;">
